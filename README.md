@@ -1,7 +1,8 @@
 # BetsFootball
-Projeto para analisar estatísticas das partidas de futebol.
 
-# Step by Step
+Projeto para realizar extração, tratamento e carga dos dados e analisar estatísticas das partidas de futebol.
+
+# Etapas
 
 > Importar bibliotecas no python para leitura e análise de dados (Pandas, Numpy)
 
